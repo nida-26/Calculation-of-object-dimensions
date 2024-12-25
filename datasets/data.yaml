@@ -1,0 +1,7 @@
+
+train: "C:/Users/nidaf/OneDrive/Documents/GitHub/Calculation-of-Object-Dimensions/datasets/train"
+test: "C:/Users/nidaf/OneDrive/Documents/GitHub/Calculation-of-Object-Dimensions/datasets/test"
+val: "C:/Users/nidaf/OneDrive/Documents/GitHub/Calculation-of-Object-Dimensions/datasets/valid"
+
+nc: 1
+names: ["tv"]

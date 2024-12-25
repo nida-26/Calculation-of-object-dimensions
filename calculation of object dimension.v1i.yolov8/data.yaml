@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['tv']
+
+roboflow:
+  workspace: nida-m2t5o
+  project: calculation-of-object-dimension-vgmw4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nida-m2t5o/calculation-of-object-dimension-vgmw4/dataset/1
